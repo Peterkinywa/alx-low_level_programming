@@ -1,1 +1,5 @@
 C - Pointers, arrays and strings
+......
+    C - Arrays
+    C - Pointers
+    C - Strings
