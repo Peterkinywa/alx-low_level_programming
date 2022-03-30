@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _pow_recursion -  a function that returns the value of x raised to the power of y.
+ * _pow_recursion - Search a string for any of a set of bytes.
  * @x: base
  * @y: exposant
  * Return: Pointer to the byte in `s` that matches one of the bytes in `accept`
