@@ -1,7 +1,5 @@
 #include "main.h"
 
-/* Solution credit goes to Arthur Damm, cohort 8. */
-
 /**
  * wildcmp - compares two strings and returns 1 if the strings can be
  * considered identical, otherwise return 0
